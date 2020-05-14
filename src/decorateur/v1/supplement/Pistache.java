@@ -1,6 +1,6 @@
-package decortateur.v1.supplement;
+package decorateur.v1.supplement;
 
-import decortateur.v1.boisson.Boisson;
+import decorateur.v1.boisson.Boisson;
 
 public class Pistache extends DecorateurIngredient {
 

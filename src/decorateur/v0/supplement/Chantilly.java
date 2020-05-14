@@ -1,11 +1,13 @@
-package decortateur.v1.supplement;
+package decorateur.v0.supplement;
 
-import decortateur.v1.boisson.Boisson;
+import decorateur.v0.boisson.Boisson;
 
 public class Chantilly extends DecorateurIngredient {
 
+    Boisson boisson;
+
     public Chantilly(Boisson boisson) {
-        super(boisson);
+        this.boisson = boisson;
     }
 
     @Override
