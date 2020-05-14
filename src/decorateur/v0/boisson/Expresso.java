@@ -1,4 +1,4 @@
-package decortateur.v0.boisson;
+package decorateur.v0.boisson;
 
 public class Expresso extends Boisson {
 

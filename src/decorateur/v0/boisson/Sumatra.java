@@ -1,4 +1,4 @@
-package decortateur.v1.boisson;
+package decorateur.v0.boisson;
 
 public class Sumatra extends Boisson {
 

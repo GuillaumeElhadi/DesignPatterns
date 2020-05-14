@@ -1,13 +1,11 @@
-package decortateur.v0.supplement;
+package decorateur.v1.supplement;
 
-import decortateur.v0.boisson.Boisson;
+import decorateur.v1.boisson.Boisson;
 
 public class Caramel extends DecorateurIngredient {
 
-    Boisson boisson;
-
     public Caramel(Boisson boisson) {
-        this.boisson = boisson;
+        super(boisson);
     }
 
     @Override

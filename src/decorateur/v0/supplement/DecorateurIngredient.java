@@ -1,6 +1,6 @@
-package decortateur.v0.supplement;
+package decorateur.v0.supplement;
 
-import decortateur.v0.boisson.Boisson;
+import decorateur.v0.boisson.Boisson;
 
 public abstract class DecorateurIngredient extends Boisson {
 

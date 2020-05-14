@@ -1,9 +1,9 @@
-package decortateur.v0;
+package decorateur.v0;
 
-import decortateur.v0.boisson.Boisson;
-import decortateur.v0.boisson.Sumatra;
-import decortateur.v0.supplement.Chantilly;
-import decortateur.v0.supplement.Chocolat;
+import decorateur.v0.boisson.Boisson;
+import decorateur.v0.boisson.Sumatra;
+import decorateur.v0.supplement.Chantilly;
+import decorateur.v0.supplement.Chocolat;
 
 public class MainDecorateurV0 {
 
